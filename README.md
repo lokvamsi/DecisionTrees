@@ -1,4 +1,4 @@
-# Rand_Forest_Classifier
+# DecisionTrees
 C++ implementation of a random forest classifier with reduced error pruning methods.
 
 Implemented Algorithms:
@@ -6,6 +6,7 @@ Implemented Algorithms:
 ID3 Decision Tree Algorithm
 Reduced Error Pruning
 Random Forest Algorithm
+
 ID3 Decision Tree Algorithm
 
 Measures of performance:
